@@ -2,15 +2,11 @@
 
 ###
 
-<h2 align="left">about me</h2>
+<h2 align="left">My name is Patrick Brasil:<br>I'm from Rio de Janeiro and I'm currently studying software engineering. <br>and I'm looking to enter the job market</h2>
 
 ###
 
-<h2 align="left">-full stack developer<br>-studying 1st semester of software engineering<br>-here I post my projects</h2>
-
-###
-
-<h2 align="left">I code with</h2>
+<h3 align="left">-full stack developer<br>-studying 1st semester of software engineering<br>-here I post my projects</h3>
 
 ###
 
