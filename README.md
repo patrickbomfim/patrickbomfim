@@ -1,4 +1,4 @@
-<h1 align="left">("hello, wolrd!")👋 What's up?</h1>
+<h1 align="left">("hello, world!")👋 What's up?</h1>
 
 ###
 
